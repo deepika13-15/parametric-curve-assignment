@@ -35,7 +35,7 @@ Estimate the unknown variables θ, M, and X in the given parametric curve equati
 ## Plot Output
 The figure below shows how well the predicted curve matches the actual data.
 
-![Actual vs Predicted Curve](./5eca0746-d986-4a28-9f5f-fbe2752c30c8.png)
+![Actual vs Predicted Curve](.parametric_curve.png)
 
 ---
 
